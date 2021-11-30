@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog de Nicolas Schwartz</title>
+    <link>https://nicolas-schwartz.staraurryon.com/</link>
+    <description>Recent content on Blog de Nicolas Schwartz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 17 Nov 2021 18:12:05 +0100</lastBuildDate><atom:link href="https://nicolas-schwartz.staraurryon.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C.V. Nicolas Schwartz</title>
+      <link>https://nicolas-schwartz.staraurryon.com/cv/</link>
+      <pubDate>Wed, 17 Nov 2021 18:12:05 +0100</pubDate>
+      
+      <guid>https://nicolas-schwartz.staraurryon.com/cv/</guid>
+      <description>Expériences professionnelles   Février 2021 - Aujourd’hui - Président, Fenritec S.A.S., Saulnes.
+ Solution d’hébergement de documents développée en France et hébergée en Europe par des acteurs Français et Européens Développement de backends en Golang intégrés dans un environnement OAuth2 Déploiement d’un environnement multi-cloud HA, zero-trust et auto déployé avec Ansible + Kubernetes    Octobre 2017 - Octobre 2020 - Consultant Cyber Sécurité, PwC Luxembourg, Luxembourg.
+ Audit de sécurité basé sur les frameworks SWIFT, ISO 27000, ESS Eurostat, etc.</description>
+    </item>
+    
+    <item>
+      <title>Il n&#39;y a rien ici pour le moment</title>
+      <link>https://nicolas-schwartz.staraurryon.com/article/todo/</link>
+      <pubDate>Wed, 17 Nov 2021 18:12:05 +0100</pubDate>
+      
+      <guid>https://nicolas-schwartz.staraurryon.com/article/todo/</guid>
+      <description>Revenez plus tard ;-)</description>
+    </item>
+    
+  </channel>
+</rss>
